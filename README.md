@@ -1,1 +1,1 @@
-This is Employee dataset analysis. I added that dataset for reference.In this analysis , we used advance excel and Power BI for Dashboard Preparation  
+This is Employee dataset analysis, added the dataset for reference. In this analysis I used advance excel and Power BI for Dashboard Preparation.  
